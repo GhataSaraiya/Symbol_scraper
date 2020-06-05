@@ -1,4 +1,4 @@
-# Symbol_scrapper
+# Symbol scraper
 
 
 Web scraping application which scrapes data from <https://www.barchart.com/stocks/quotes/GOOG/competitors> to get information about company symbols and names using Selenium and BeautifulSoup.
