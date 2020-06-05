@@ -1,2 +1,4 @@
 GOOGL
 MSFT
+AAPL
+CL

@@ -1,0 +1,1 @@
+python scraperfunctions.py -ipop symbols.txt result.json
